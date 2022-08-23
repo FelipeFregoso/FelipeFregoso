@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on new developers to create good environments
 - 📫 How to reach me: Please send me an Email to "felipe.fregoso@sytesoft.com"
 
+- 💲If you want to support my work, plese send me a TIP to: https://paypal.me/Sytesoft
+
 <!---
 FelipeFregoso/FelipeFregoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
